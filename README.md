@@ -43,7 +43,7 @@ Requirements:
  Instructions 💾
 
 1. Download: Click on Code → Download ZIP
-2. Extract: Unzip the file BREAKING-BAD-WEBSITE-main.zip
+2. Extract: Unzip the file BREAKING-BAD-WEBSITE-V1-main.zip
 3. Navigate to the project folder and open:
    index.html ← Double click here to open in your browser
 4. The site will open automatically in your default browser

@@ -3,14 +3,14 @@ My first static web development project, created as a university assignment for 
 
 ---
 
-Name of the site: Breaking Bad Fan Website
+**Name of the site:** Breaking Bad Fan Website
 
-🎓 Context
+🎓 **Context**
 
 A static fan website about the TV series **Breaking Bad**, covering its synopsis, characters, and awards. built using only pure HTML, no CSS frameworks, no JavaScript. The goal was to practice basic HTML structure, tables, and multi-page navigation.
 This was my first ever web development project, created during my Web Development module. It reflects the very beginning of my journey into web development.
 
-📄 Pages:
+📄 **Pages:**
 
 **Main Page:**  Introduction and general overview of the series
 
@@ -18,12 +18,12 @@ This was my first ever web development project, created during my Web Developmen
 
 **Awards:**  A summary of the show's major accolades, including 10 Primetime Emmy Awards and a total of 45 industry wins across 113 nominations
 
-🛠️ Tech Stack:
+🛠️ **Tech Stack:**
 
 - HTML5 (only)
 - No CSS, no JavaScript (raw structure only)
 
-🎖️ Features:
+🎖️ **Features:**
 
 - Multi-page navigation 📋
 
@@ -33,14 +33,14 @@ This was my first ever web development project, created during my Web Developmen
 
 ---
 
-🖥️ How to Run
+🖥️ **How to Run**
 
 Requirements:
 
 - Any modern web browser (Chrome, Firefox, Edge, etc.)
 - No installation needed
 
- Instructions 💾
+ **Instructions:** 💾
 
 1. Download: Click on Code → Download ZIP
 2. Extract: Unzip the file BREAKING-BAD-WEBSITE-V1-main.zip

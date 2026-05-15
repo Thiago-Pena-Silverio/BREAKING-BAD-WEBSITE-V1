@@ -1,6 +1,8 @@
 # Breaking Bad Fan Website 🧪
 My first static web development project, created as a university assignment for the Web Development module on the Computer Science degree course.
 
+> ⚠️ **Note:** This project was developed for academic purposes and the content (page names and text) is written in **Portuguese**.
+
 ---
 
 **Name of the site:** Breaking Bad Fan Website

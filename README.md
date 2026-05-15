@@ -37,7 +37,7 @@ This was my first ever web development project, created during my Web Developmen
 
 🖥️ **How to Run**
 
-Requirements:
+**Requirements:**
 
 - Any modern web browser (Chrome, Firefox, Edge, etc.)
 - No installation needed
